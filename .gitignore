@@ -1,0 +1,15 @@
+# Ambiente virtual / Python
+venv3/
+__pycache__/
+*.pyc
+*.pyo
+
+# Chaves e segredos (ex.: test_rsa.key usada pelo ssh_server.py)
+*.key
+*.pem
+.env
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
