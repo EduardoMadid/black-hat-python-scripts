@@ -1,0 +1,1 @@
+Basicamente criando o venv, baixando algumas libs, e deixando o seu vscode usavelkkk
